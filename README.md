@@ -15,7 +15,7 @@ To run the game, you'll need:
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/quiz-game.git
+   git clone https://github.com/Roshanaka9hunnidbands/quiz-game.git
    ```
 2. Navigate to the project directory:
    ```bash
